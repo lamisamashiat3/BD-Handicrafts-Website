@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "businessImg": "https://i.ibb.co/BGFXdPB/Cane-Swing-Chair.jpg",
+      "businessName": "Cane Swing Chair",
+      "yearOfOperation": 10,
+      "numberOfProducts": 250,
+      "likes": 3400,
+      "materialsUsed": "Cane, wood",
+      "craftingMethod": "Handwoven cane strips are meticulously crafted and assembled to form the structure. The wood is treated for durability and finished with a protective coating.",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "businessImg": "https://i.ibb.co/TLTvWjX/Handicraft-Cotton-Rug-2.jpg",
+      "businessName": "Handicraft cotton rug",
+      "yearOfOperation": 5,
+      "numberOfProducts": 120,
+      "likes": 2100,
+      "materialsUsed": "Cotton fabric",
+      "craftingMethod": "Cotton threads are dyed and woven using traditional loom techniques. Each rug is handwoven, ensuring unique patterns and high quality.",
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "businessImg": "https://i.ibb.co/dbtntrY/Handicraft-cotton-rug.jpg",
+      "businessName": "Handicraft cotton rug",
+      "yearOfOperation": 8,
+      "numberOfProducts": 300,
+      "likes": 4750,
+      "materialsUsed": "Cotton fabric",
+      "craftingMethod": "Utilizes both manual weaving techniques and machine assistance to enhance durability. Detailed patterns are hand-dyed before weaving.",
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "businessImg": "https://i.ibb.co/xXvPCw8/Handicraft-Men-s-Tupi.jpg",
+      "businessName": "Handicraft Men's Tupi",
+      "yearOfOperation": 12,
+      "numberOfProducts": 85,
+      "likes": 1500,
+      "materialsUsed": "Traditional fabric, decorative threads",
+      "craftingMethod": "Crafted with traditional methods, incorporating intricate embroidery and weaving. The fabric is hand-stitched to create unique patterns.",
+      "rating": 4.0
+    },
+    {
+      "id": 5,
+      "businessImg": "https://i.ibb.co/rFrwnDJ/Jute-floor-Carpet.jpg",
+      "businessName": "Jute floor Carpet",
+      "yearOfOperation": null,
+      "numberOfProducts": 200,
+      "likes": 2900,
+      "materialsUsed": "Jute fibers",
+      "craftingMethod": "Jute fibers are spun into yarn and woven into carpets using handlooms. The natural texture of jute gives each carpet a unique look.",
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "businessImg": "https://i.ibb.co/Hdv0qHT/Jute-rug.jpg",
+      "businessName": "Jute rug",
+      "yearOfOperation": 15,
+      "numberOfProducts": 500,
+      "likes": 6700,
+      "materialsUsed": "Jute fibers",
+      "craftingMethod": "Jute fibers are woven using a combination of traditional techniques and modern machinery to produce durable and stylish rugs.",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "businessImg": "https://i.ibb.co/nmjpCHG/Jute-Wall-Mirror.jpg",
+      "businessName": "Jute Wall Mirror",
+      "yearOfOperation": 3,
+      "numberOfProducts": 60,
+      "likes": 1100,
+      "materialsUsed": "Jute fibers, glass",
+      "craftingMethod": "Jute fibers are wrapped around a glass mirror to create a decorative border. Each piece is handcrafted to ensure quality and uniqueness.",
+      "rating": 3.9
+    },
+    {
+      "id": 8,
+      "businessImg": "https://i.ibb.co/Z19fyVB/Nokshi-Katha.jpg",
+      "businessName": "Nakshi Kantha",
+      "yearOfOperation": 9,
+      "numberOfProducts": 150,
+      "likes": 4200,
+      "materialsUsed": "Cotton fabric, thread",
+      "craftingMethod": "Hand-stitched with intricate embroidery patterns. The design process involves layering fabrics and stitching decorative patterns.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "businessImg": "https://i.ibb.co/0MQg1G8/Nakshi-pillow-cover.jpg",
+      "businessName": "Nakshi pillow cover",
+      "yearOfOperation": 6,
+      "numberOfProducts": 220,
+      "likes": 3300,
+      "materialsUsed": "Cotton fabric, thread",
+      "craftingMethod": "Made from cotton fabric with detailed embroidery work. Each pillow cover is hand-stitched with traditional Nakshi Kantha patterns.",
+      "rating": 4.4
+    },
+    {
+      "id": 10,
+      "businessImg": "https://i.ibb.co/YkQz2Fb/Painted-Jute-Plate.jpg",
+      "businessName": "Painted Jute Plate",
+      "yearOfOperation": 4,
+      "numberOfProducts": 130,
+      "likes": 1850,
+      "materialsUsed": "Jute fibers, paint",
+      "craftingMethod": "Jute plates are woven and then hand-painted with decorative designs. The painting process adds a unique touch to each plate.",
+      "rating": 4.1
+    },
+    {
+      "id": 11,
+      "businessImg": "https://i.ibb.co/g6twR32/Palm-leaf-handfan.jpg",
+      "businessName": "Palm leaf handfan",
+      "yearOfOperation": 11,
+      "numberOfProducts": 270,
+      "likes": 5100,
+      "materialsUsed": "Palm leaves, bamboo",
+      "craftingMethod": "Palm leaves are dried, shaped, and attached to bamboo handles. The handcrafting process includes weaving the leaves into intricate patterns.",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "businessImg": "https://i.ibb.co/m935rKW/Woollen-handmade-cap.jpg",
+      "businessName": "Woollen cap",
+      "yearOfOperation": 2,
+      "numberOfProducts": 90,
+      "likes": 950,
+      "materialsUsed": "Wool",
+      "craftingMethod": "Hand-knitted with high-quality wool. Each cap is crafted using traditional knitting techniques to ensure warmth and comfort.",
+      "rating": 4.0
+    },
+    {
+      "id": 13,
+      "businessImg": "https://i.ibb.co/sCTvR57/Palm-leaf-small-bucket-set.jpg",
+      "businessName": "Palm leaf bucket",
+      "yearOfOperation": 8,
+      "numberOfProducts": 160,
+      "likes": 3700,
+      "materialsUsed": "Palm leaves",
+      "craftingMethod": "Handwoven from palm leaves, shaped into buckets. The weaving process is done manually, making each bucket unique.",
+      "rating": 4.3
+    },
+    {
+      "id": 14,
+      "businessImg": "https://i.ibb.co/qrpyN5s/Table-Mat.jpg",
+      "businessName": "Table Mat",
+      "yearOfOperation": 14,
+      "numberOfProducts": 400,
+      "likes": 6000,
+      "materialsUsed": "Various fibers",
+      "craftingMethod": "Crafted using a mix of natural and synthetic fibers. The weaving technique ensures durability and an aesthetically pleasing design.",
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "businessImg": "https://i.ibb.co/2Mv62xW/Water-Hyacinth-Basket.jpg",
+      "businessName": "Water Hyacinth Basket",
+      "yearOfOperation": 6,
+      "numberOfProducts": 180,
+      "likes": 2900,
+      "materialsUsed": "Water hyacinth",
+      "craftingMethod": "Woven from water hyacinth fibers, creating a durable and eco-friendly basket. The crafting involves manual weaving for a natural finish.",
+      "rating": 4.2
+    }
+  ]
+  
